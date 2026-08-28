@@ -1,0 +1,12 @@
+{
+  "name": "NK Gebäudereinigung",
+  "short_name": "NK Reinigung",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1B1D22",
+  "theme_color": "#1B1D22",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
